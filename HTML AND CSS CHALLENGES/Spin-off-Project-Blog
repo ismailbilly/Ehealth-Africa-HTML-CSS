@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off-project-blog</title>
+        <meta charset="utf-8">
+        <style>
+            body {
+                background-color: pink;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+            h1, h3,p {
+                text-align: center;
+                color: purple;
+            }
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+           
+        ul {
+            font-size: 1.3em;
+        }
+        p {
+            font: 1.2em ;
+        }
+        
+        </style>
+    </head>
+    <body>
+        <h1>MY PROGRAMMING JOURNEY</h1>
+        <img src="htmlcss.jpg">
+        <ul>
+            <li><a href="#dreamingdays">Dreaming-days</a></li>
+            <li><a href="#findpurpose">Finding my purpose</a></li>
+            <li><a href="#balance">Gaining balance</a></li>
+        </ul>
+        
+        <h3 id="dreamingdays">Dreaming Days</h3>
+        <p>Gaining admission into the university was a dream come true.Though I chose computer engineering as a course of choice, i really did not know what the curriculum was or the 
+             different fields in computer engineering. 
+             For me it was just a funky course name my friend
+             was studying and it was cool.
+             What matters was i was admitted into college.  </p>
+        
+        <h3 id="findpurpose">Finding my Purpose</h3>
+        <p>Registration was over and lectures started, I was super excited. 
+            The curriculum was given to us and I saw some codes and course names,
+            though very unfamiliar but they look interesting.
+        The journey of programming started with FORTRAN. At first it looked like I was in the wrong class as
+         I was unable to understand what the lecturer  was saying and writing. 
+         AH! Thank God mid semester came and I packed my bags thinking never to come back, frustrated and confused. 
+         I remember once I spoke to my mum over the phone and I was crying telling her I do not understand FORTRAN. I got home feeling really down just like most of my classmates.
+      My mum was very worried, she discussed the issue with a colleague who is a computer engineer at work and he invited me over.
+      OH! God that chap was a savior. He broke it down that I felt I could create my own programming language lol.   </p>
+        
+        <h3 id="balance">Gaining Balance</h3>
+    
+        <p>Semester break was over and I returned to school,refreshed and more confident.
+            The next day was the last FORTRAN lecture for the semester and the lectured grouped
+            us in fives with assignment to be presented in three days. Everyone in my group semester
+            not to be interested as they still lived in my past of lack of understanding of the course
+            . I took it up as challenge and started googling for ideas, I went to the library and brusheed through some 
+            textbooks on FORTRAN and that was my brekthrough. I was able to do the assignment and even went
+            ahead to do the presentation. My group was the best and I was named the best in programming that semester. I was very happy.
+            That moment birthed my journey into programming. 
+        </p>
+        
+    </body>
+</html>
